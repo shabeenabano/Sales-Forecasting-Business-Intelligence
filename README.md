@@ -38,8 +38,6 @@ The project includes data cleaning, exploratory data analysis (EDA), feature eng
 Sales-Forecasting-Business-Intelligence/
 │
 ├── data/
-│   ├── OnlineRetail.csv
-│   ├── OnlineRetail_Cleaned.csv
 │   ├── daily_sales.csv
 │   ├── monthly_sales.csv
 │   ├── forecasting_features.csv
